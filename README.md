@@ -4,7 +4,7 @@ Submitted by: **Zamir Piedrahita**
 
 **BeReal ClonePt1** 
 
-Time spent: **X** hours spent in total
+Time spent: **11** hours spent in total
 
 ## Required Features
 
